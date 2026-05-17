@@ -1,0 +1,17 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Inbox",
+  "attachmentFolderPath": "_assets",
+  "useMarkdownLinks": false,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "vimMode": false,
+  "promptDelete": true,
+  "trashOption": "system",
+  "showInlineTitle": true,
+  "userIgnoreFilters": [
+    "_assets/",
+    "node_modules/"
+  ]
+}
